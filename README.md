@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-This project demonstrates how **KMeans clustering** can be used for **image compression** by reducing the number of colors in an image. The chosen image is of a vibrant **Kingfisher bird**, which is clustered in RGB space to produce compressed versions of the image using fewer colors (e.g., 4, 8, 16, 32).
+This project demonstrates how **KMeans clustering** can be used for **image compression** by reducing the number of colors in an image. The chosen image is of a vibrant **Kingfisher bird**, which is clustered in RGB space to produce compressed versions of the image using fewer colors (K = 16, 10, 6, 3).
 
 ---
 
